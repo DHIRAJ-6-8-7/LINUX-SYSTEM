@@ -1,0 +1,24 @@
+# Compiled binaries (executables)
+FirstFolder
+LsImplementation
+Wait
+bandbox
+collect_child_status
+cow
+fork_example
+fork_exec
+multiple_thread
+runbox
+second
+thread_example
+
+# Generic executable wildcard patterns
+*.out
+*.o
+*.so
+*.a
+
+# Build/system artifacts
+.DS_Store
+*.swp
+*~
